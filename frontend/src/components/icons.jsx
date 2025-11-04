@@ -139,7 +139,7 @@ export const EyeIcon = ({ className = '' }) => (
   </svg>
 );
 
-export const EyeCloseIcon = ({ className = '' }) => (
+export const EyeClose = ({ className = '' }) => (
   <svg
     xmlns='http://www.w3.org/2000/svg'
     width='24'

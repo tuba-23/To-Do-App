@@ -1,6 +1,6 @@
 'use client';
 
-import { EyeClose, EyeIcon } from '@/components/icons';
+import { EyeCloseIcon, EyeIcon } from '@/components/icons';
 import { LoadingSpinner } from '@/components/LoadingSpinner';
 import { authClient } from '@/lib/auth-client';
 import { useRouter } from 'next/navigation';
